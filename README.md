@@ -89,10 +89,6 @@ Here’s how you can contribute:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Acknowledgements
-
-- Thanks to the community for their contributions and feedback.
-- Special thanks to [dialog](https://linux.die.net/man/1/dialog) for providing a simple and effective way to create interactive command-line interfaces.
 
 ## Contact
 
